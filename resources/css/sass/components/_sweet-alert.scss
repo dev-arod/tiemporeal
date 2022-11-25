@@ -1,0 +1,36 @@
+#swal2-title {
+    font-size: var(--subtitle-font-size);
+    font-weight: bold;
+    color: var(--neutral-color-dark);
+    padding: 0px;
+}
+
+.swal2-actions {
+    width: 100%;
+    gap: 0.5rem;
+}
+
+button.swal2-confirm {
+    background-color: var(--bg-success-color);
+    border-color: var(--b-success-color);
+    border-width: 0px;
+    border-radius: 10px;
+    color: var(--f-success-color);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    width: 33%;
+    outline: none;
+}
+
+button.swal2-cancel {
+    background-color: var(--bg-danger-color);
+    border-color: var(--b-danger-color);
+    border-width: 0px;
+    border-radius: 10px;
+    color: var(--f-danger-color);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    width: 33%;
+}
