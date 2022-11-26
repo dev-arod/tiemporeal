@@ -36,4 +36,9 @@ class CreateTasks implements ShouldBroadcast
         return new Channel('Tasks');
         //return new PrivateChannel('channel-name');
     }
+
+    public function broadcastAs() {
+        return 'New-Task';
+    }
+
 }

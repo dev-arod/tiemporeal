@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TaskController;
+use App\Models\Task;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,4 +27,9 @@ Route::post('/task', [TaskController::class, 'store']);
 
 Route::get('/task/create', function () {
     return view('task.create');
+});
+
+Route::get('/get-tasks', function () {
+    $tasks = Task::all()->pluck('description');
+    return $tasks;
 });
