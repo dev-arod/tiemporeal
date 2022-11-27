@@ -13,7 +13,7 @@
 
 * Descarga o clona el proyecto.
 * Dentro del proyecto:
-    composer install
-    npm install
-    npm run dev
+    - composer install
+    - npm install
+    - npm run dev
 
