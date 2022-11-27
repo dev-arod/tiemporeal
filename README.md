@@ -18,6 +18,7 @@
     - npm run dev
 
 * Crea el archivo .env y coloca los valores de tu Base de datos, usuario y contraseña.
+* En este punto, se recomienda ver la primera parte del video para instalar y configurar Pusher.
 * Ejecuta las migraciones:
     - php artisan migrate
 * Corre el servidor o, si usas Laragon o Wamp, dirigete al host.
@@ -28,3 +29,8 @@ Las rutas son:
     
 Se recomienda tener abiertas las rutas al mismo tiempo para mostrar la ejecución en tiempo real.
 
+## Creación del proyecto desde cero :sparkling_heart:
+
+En el siguiente video se te indica como llevar a cabo el proyecto de inicio a fin. O puedes usarlo solo para configurar Pusher.
+
+[![r2dev Tutorial](https://r2dev-consulting.tech/gallery/image.php?twg_album=&twg_type=small&twg_show=real-time-laravel-with-socket-io-1.jpg&twg_rot=-1)](https://cdrive.page.link/h4ZzJ4YcMCVHLo2p9)
