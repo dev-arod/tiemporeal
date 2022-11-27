@@ -23,8 +23,8 @@
 * Corre el servidor o, si usas Laragon o Wamp, dirigete al host.
 
 Las rutas son:
-    - http://tiemporeal.test/task/create  -> Para crear nuevas tareas
-    - http://tiemporeal.test/task  -> Para mostrar todas las tareas, actualizadas en tiempo real
+* http://tiemporeal.test/task/create    -> Para crear nuevas tareas
+* http://tiemporeal.test/task           -> Para mostrar todas las tareas, actualizadas en tiempo real
     
 Se recomienda tener abiertas las rutas al mismo tiempo para mostrar la ejecución en tiempo real.
 
