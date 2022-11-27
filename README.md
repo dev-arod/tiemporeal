@@ -34,3 +34,12 @@ Se recomienda tener abiertas las rutas al mismo tiempo para mostrar la ejecució
 En el siguiente video se te indica como llevar a cabo el proyecto de inicio a fin. O puedes usarlo solo para configurar Pusher.
 
 [![r2dev Tutorial](https://r2dev-consulting.tech/gallery/image.php?twg_album=&twg_type=small&twg_show=real-time-laravel-with-socket-io-1.jpg&twg_rot=-1)](https://cdrive.page.link/h4ZzJ4YcMCVHLo2p9)
+
+## Tecnología utilizadas
+
+* Laravel
+* Pusher
+* Echo
+* Alpine
+* Axios
+
