@@ -9,6 +9,11 @@
 ![GitHub](https://img.shields.io/github/downloads/dev-arod/tiemporeal/total?style=plastic)
 ![Badge Main Framework](https://img.shields.io/badge/Main%20Framework-Laravel%20-orange)
 
+## Instalación y uso
 
+* Descarga o clona el proyecto.
+* Dentro del proyecto:
+    composer install
+    npm install
+    npm run dev
 
-## Introducción
