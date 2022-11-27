@@ -5,6 +5,9 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-COMPLETADO-green)
 ![GitHub](https://img.shields.io/github/languages/code-size/dev-arod/tiemporeal)
+![GitHub](https://img.shields.io/github/last-commit/dev-arod/tiemporeal)
+![GitHub](https://img.shields.io/github/downloads/dev-arod/tiemporeal/total?style=plastic)
+![Badge Main Framework](https://img.shields.io/badge/Main%20Framework-Laravel%20-orange)
 
 
 
